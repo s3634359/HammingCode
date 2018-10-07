@@ -56,7 +56,7 @@ This program allows client to enter 11 binary digits and send them to server, so
 | 2 | Client sends a string data with 11 binary digits to server |
 | 3 | Server stores each digit into an array |
 | 4 | Server calculates to detect errors in error bits |
-| 5 | Server correct them and store the array in a string variable in order to send it back to client |
+| 5 | Server corrects them and stores the array in a string variable in order to send it back to client |
 | 6 | Client receives messages with corrected data from server |
 
 Link : [https://github.com/s3634359/HammingCode]
