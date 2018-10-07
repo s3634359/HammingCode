@@ -46,3 +46,13 @@ This program allows client to enter 11 binary digits and send them to server, so
 
 ![alt text](https://github.com/s3634359/HammingCode/blob/master/screenshots/h5.PNG)
 
+
+## Features
+
+| Features |
+| Server and client are linked through TCP socket by using IP address and port number |
+| Client sends a string data with 11 binary digits to server |
+| Server stores each digit into an array |
+| Server calculates to detect errors in error bits |
+| Server correct them and store the array in a string variable in order to send it back to client|
+| Client receives messages with corrected data from server |
