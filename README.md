@@ -56,3 +56,13 @@ This program allows client to enter 11 binary digits and send them to server, so
 | 4 | Server calculates to detect errors in error bits |
 | 5 | Server correct them and store the array in a string variable in order to send it back to client|
 | 6 | Client receives messages with corrected data from server |
+
+
+| Plugin | README |
+| ------ | ------ |
+| Dropbox | [plugins/dropbox/README.md][PlDb] |
+| Github | [plugins/github/README.md][PlGh] |
+| Google Drive | [plugins/googledrive/README.md][PlGd] |
+| OneDrive | [plugins/onedrive/README.md][PlOd] |
+| Medium | [plugins/medium/README.md][PlMe] |
+| Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
