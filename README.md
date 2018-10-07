@@ -37,7 +37,7 @@ This program allows client to enter 11 binary digits and send them to server, so
 
 4. If no error is found in the data, send a message to client that data is correct.
 
-![alt text](https://github.com/s3634359/HammingCode/blob/master/screenshots/h6.PNG)
+![alt text](https://github.com/s3634359/HammingCode/blob/master/screenshots/h5.PNG)
 
 5. If client doesn't input 11 binary digits, server sends an alter to client.
 
