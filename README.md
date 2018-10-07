@@ -16,3 +16,5 @@ This program allows client to enter 11 binary digits and send them to server, so
   - the server receives the data and detect errors in errors bits.
     - If any errors are found, the server corrects them and sends the corrected data back to the client with information that what have been corrected.
     - If there is no error, the server sends a message that data has no error to the client.
+
+![alt text](https://github.com/s3634359/HammingCode/blob/master/screenshots/h1.PNG)
