@@ -49,10 +49,10 @@ This program allows client to enter 11 binary digits and send them to server, so
 
 ## Features
 
-| Features |
-| Server and client are linked through TCP socket by using IP address and port number |
-| Client sends a string data with 11 binary digits to server |
-| Server stores each digit into an array |
-| Server calculates to detect errors in error bits |
-| Server correct them and store the array in a string variable in order to send it back to client|
-| Client receives messages with corrected data from server |
+| Steps | Features |
+| 1 | Server and client are linked through TCP socket by using IP address and port number |
+| 2 | Client sends a string data with 11 binary digits to server |
+| 3 | Server stores each digit into an array |
+| 4 | Server calculates to detect errors in error bits |
+| 5 | Server correct them and store the array in a string variable in order to send it back to client|
+| 6 | Client receives messages with corrected data from server |
