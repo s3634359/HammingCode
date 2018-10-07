@@ -20,24 +20,24 @@ This program allows client to enter 11 binary digits and send them to server, so
 
 ## Screenshots
 
+1. Run server first and client.
+
 ![alt text](https://github.com/s3634359/HammingCode/blob/master/screenshots/h1.PNG)
 
-1. Run server first and client.
+2. Input 11 binary digits in the text field and press the check button
 
 ![alt text](https://github.com/s3634359/HammingCode/blob/master/screenshots/h2.PNG)
 
-2. Input 11 binary digits in the text field and press the check button
+3. Server checks the data from client. If there are errors in data, correct them and send corrected data back to client
 
 ![alt text](https://github.com/s3634359/HammingCode/blob/master/screenshots/h3.PNG)
 ![alt text](https://github.com/s3634359/HammingCode/blob/master/screenshots/h4.PNG)
 
-3. Server checks the data from client. If there are errors in data, correct them and send corrected data back to client
+4. If no error is found in the data, send a message to client that data is correct.
 
 ![alt text](https://github.com/s3634359/HammingCode/blob/master/screenshots/h6.PNG)
 
-4. If no error is found in the data, send a message to client that data is correct.
+5. If client doesn't input 11 binary digits, server sends an alter to client.
 
 ![alt text](https://github.com/s3634359/HammingCode/blob/master/screenshots/h5.PNG)
-
-5. If client doesn't input 11 binary digits, server sends an alter to client.
 
